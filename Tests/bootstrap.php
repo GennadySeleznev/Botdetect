@@ -7,6 +7,7 @@
  *
  * For the full copyright and license information, please view the LICENSE
  * file that was distributed with this source code.
+ * This is my selfreliance work about "making new git test"
  */
 
 $file = __DIR__.'/../vendor/autoload.php';
